@@ -1,5 +1,11 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KoletoG)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KoletoG&theme=dark&fire=9019E3&ring=9019E3&currStreakLabel=9019E3&hide_longest_streak=true&sideLabels=9019E3)](https://git.io/streak-stats)
+<br/>
+<img src="https://camo.githubusercontent.com/d062d59fe5df3044548f176c99f52d6866ac70eea1104374c59b75cbdd2e98e5/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="C#" width="75"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="75"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="75"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="75"/>
+<img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="MSSQL" width="75"/>
+<img src="https://www.ispirer.net/images/asp.net.logo.png" alt="ASP.NET" width="75"/>
 <!--
 **KoletoG/KoletoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
