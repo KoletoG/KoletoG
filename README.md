@@ -1,6 +1,12 @@
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KoletoG&theme=dark&fire=9019E3&ring=9019E3&currStreakLabel=9019E3&hide_longest_streak=true&sideLabels=9019E3)](https://git.io/streak-stats)  
+<div align="center">
+<a href="https://github.com/KoletoG" title="KoletoG on GitHub" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://streak-stats.demolab.com/?user=KoletoG&theme=dark&fire=9019E3&ring=9019E3&currStreakLabel=9019E3&hide_longest_streak=true&sideLabels=9019E3"
+    alt="GitHub Streak for Koleto"
+    style="max-width:100%;height:auto;display:block;border:0;"
+  />
+</a>
 <br/>
 <img src="https://camo.githubusercontent.com/d062d59fe5df3044548f176c99f52d6866ac70eea1104374c59b75cbdd2e98e5/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="C#" width="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="75"/>
