@@ -16,6 +16,7 @@
 <img src="https://www.ispirer.net/images/asp.net.logo.png" alt="ASP.NET" width="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt=".NET" width=75/>
 <img src="https://images.ctfassets.net/ee3ypdtck0rk/7r2BuGkFqf8FHJY4AkuW0X/68e00059f1c7d6a8a4d1800e0621f295/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e61.svg" alt="SignalR" width="75"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="75"/>
 
 </div>
 
