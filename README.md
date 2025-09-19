@@ -18,6 +18,7 @@
 <img src="https://images.ctfassets.net/ee3ypdtck0rk/7r2BuGkFqf8FHJY4AkuW0X/68e00059f1c7d6a8a4d1800e0621f295/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e61.svg" alt="SignalR" width="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" width="75"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="75" />
 
 </div>
 
