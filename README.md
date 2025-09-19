@@ -19,7 +19,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" width="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="75" />
-
+<img src="https://www.lemosys.com/blog/wp-content/uploads/2022/05/nodejs-logo-FBE122E377-seeklogo.com_.png" alt="NodeJS" width="75" />
 </div>
 
 <!--
